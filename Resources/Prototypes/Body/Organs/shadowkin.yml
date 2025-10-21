@@ -22,6 +22,18 @@
   description: "Check out these peepers!" #TheDen
   categories: [ HideSpawnMenu ] # TheDen - Removes from spawn menu
   components:
+  - type: Organ
+    slotId: eyes
+    onAdd: 
+      - type: UnpoweredFlashlight
+      - type: PointLight
+        enabled: false
+        radius: 3
+        energy: 2
+        softness: 1
+        color: "#00FFFF"
+        mask: /Textures/Effects/LightMasks/cone.png
+        autoRot: true
   - type: Sprite
     sprite: Mobs/Species/Shadowkin/organs.rsi
     layers:
