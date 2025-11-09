@@ -20,7 +20,12 @@
   minWidth: 0.6 
 #  defaultWidth: 0.8 
   maxWidth: 1.15  
-  customName: true 
+  customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
+
 # Floof - M3739 - #937 | End Changes
 - type: markingPoints
   id: MobKitsuneMarkingLimits

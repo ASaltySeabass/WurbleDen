@@ -35,6 +35,7 @@
   sexes:
     - Male
     - Female
+    - Unsexed #TheDen
   minHeight: 0.65
   defaultHeight: 0.85
   maxHeight: 1.15

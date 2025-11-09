@@ -29,6 +29,10 @@
   femaleFirstNames: NamesVulpkaninFemale
   lastNames: NamesVulpkaninLast
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobVulpkaninSprites

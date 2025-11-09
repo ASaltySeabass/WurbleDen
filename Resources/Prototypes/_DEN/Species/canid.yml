@@ -35,6 +35,10 @@
   defaultWidth: 0.9
   maxWidth: 1.225
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: markingPoints
   id: MobCanidMarkingLimits

@@ -30,6 +30,10 @@
   femaleFirstNames: NamesMothFirstFemale
   lastNames: NamesMothLast
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobMothSprites

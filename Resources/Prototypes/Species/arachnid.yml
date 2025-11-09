@@ -27,8 +27,10 @@
   maleFirstNames: NamesArachnidFirst
   femaleFirstNames: NamesArachnidFirst
   lastNames: NamesArachnidLast
-  sexes:
+  sexes: #TheDen
   - Unsexed
+  - Male
+  - Female
   customName: true
 
 - type: speciesBaseSprites

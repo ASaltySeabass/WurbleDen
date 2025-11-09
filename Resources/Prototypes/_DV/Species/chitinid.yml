@@ -20,6 +20,10 @@
   femaleFirstNames: NamesChitinidFirstFemale
   naming: First
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobChitinidSprites

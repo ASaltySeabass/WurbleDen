@@ -37,6 +37,10 @@
   defaultWidth: 1.2
   maxWidth: 1.35
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: markingPoints
   id: MobOniMarkingLimits

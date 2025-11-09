@@ -31,6 +31,10 @@
   oldAge: 160 # TheDen - Because we have "young adult" and "adult" now, all the numbers have been adjusted to match those descriptions based on maxAge
   maxAge: 200
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: markingPoints
   id: MobArachneMarkingLimits

@@ -36,6 +36,10 @@
   defaultWidth: 0.95
   maxWidth: 1.3
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobReptilianSprites

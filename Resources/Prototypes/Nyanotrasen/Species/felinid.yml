@@ -33,6 +33,10 @@
   defaultWidth: 0.8
   maxWidth: 1.15
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: markingPoints
   id: MobFelinidMarkingLimits

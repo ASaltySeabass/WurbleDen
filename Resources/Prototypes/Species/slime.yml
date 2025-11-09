@@ -31,6 +31,10 @@
   dollPrototype: MobSlimePersonDummy
   skinColoration: Hues
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobSlimeSprites

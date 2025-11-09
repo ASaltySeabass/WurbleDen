@@ -19,6 +19,10 @@
   femaleFirstNames: NamesFeroxiFirstFemale
   lastNames: NamesFeroxiLast
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobFeroxiSprites

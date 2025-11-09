@@ -26,6 +26,10 @@
   lastNames: NamesDionaLast
   naming: TheFirstofLast
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobDionaSprites

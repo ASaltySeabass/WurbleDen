@@ -29,6 +29,10 @@
   femaleFirstNames: NamesTajaranFirst
   lastNames: NamesTajaranLast
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 
 - type: markingPoints

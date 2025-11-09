@@ -35,6 +35,10 @@
   # defaultWidth: 0.9 TheDen - disabled due to EE bug, this is currently broken for any value other than 1.
   maxWidth: 1.225
   customName: true
+  sexes: #TheDen
+  - Unsexed
+  - Male
+  - Female
 
 - type: speciesBaseSprites
   id: MobOviniaSprites
